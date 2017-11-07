@@ -1,5 +1,5 @@
 ---
-title:blahblahblog
+title: blahblahblog
 ---
 
 **Hello World**
